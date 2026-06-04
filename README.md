@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi 👋, I'm Tejaswini
 
-<!--
-**Teju0216/Teju0216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Analyst Engineer | Python | SQL | Power BI | Machine Learning
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+🎯 Passionate Data Analyst Engineer with expertise in transforming raw data into meaningful insights.
+📊 Skilled in Data Analytics, Machine Learning, Dashboard Development, and Statistical Analysis.
+💡 I enjoy solving real-world business problems using data-driven approaches.
+🚀 Continuously learning and exploring new technologies in AI, Analytics, and Data Science.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Databases
+
+### 📊 Data Analytics & Visualization
+
+### 🤖 Machine Learning & Data Science
+
+---
+
+## 📈 Skills
+
+✔ Python for Data Analysis
+✔ SQL Query Optimization
+✔ Data Cleaning & Preprocessing
+✔ Exploratory Data Analysis (EDA)
+✔ Feature Engineering
+✔ Statistical Analysis
+✔ Machine Learning Models
+✔ Dashboard Creation using Power BI
+✔ Excel Automation & Reporting
+
+##
+
+---
+
+## 📌 Featured Projects
+
+### 📊 Data Analysis Projects
+
+* Sales Data Dashboard using Power BI
+* Uber Data Analysis
+* COVID 19 Data Analysis 
+
+
+---
+
+## 🌐 Connect With Me
+
+---
+
+## 💬 Quote
+
+> “Without data, you're just another person with an opinion.” – W. Edwards Deming
+
+---

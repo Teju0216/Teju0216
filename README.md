@@ -53,7 +53,8 @@
 ## 🤖 Machine Learning & Data Science
 
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/EDA-Data_Analysis-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-Data_Analysis-blue?style=for-the-badge"/><br><br>
+
 <img src="https://img.shields.io/badge/Feature_Engineering-green?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Statistics-Analytics-purple?style=for-the-badge"/>
 

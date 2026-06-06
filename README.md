@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💫 Hi, I'm Tejaswini 👋
+# Hi, I'm Tejaswini 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Analyst+Engineer;Python+Developer;SQL+Expert;Power+BI+Developer;Machine+Learning+Enthusiast" />
 
@@ -122,11 +122,7 @@
 
 </div>
 
----
-
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
 
 ### ⭐ Thanks for visiting my profile ⭐
 
